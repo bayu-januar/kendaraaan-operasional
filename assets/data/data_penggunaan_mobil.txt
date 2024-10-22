@@ -1,0 +1,2 @@
+John Doe,Manager,2024-09-15,12000,signature_john.png
+Jane Smith,Supervisor,2024-09-20,13000,signature_jane.png
